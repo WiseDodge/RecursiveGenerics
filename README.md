@@ -4,17 +4,17 @@ This Java project demonstrates the use of generic recursion for reversing intege
 
 # Features:
 
-Reverse integers using generic recursion.
-Reverse doubles using generic recursion.
-Reverse strings using generic recursion.
+Reverse integers using generic recursion. <br>
+Reverse doubles using generic recursion. <br>
+Reverse strings using generic recursion. <br>
 
 # How to Use:
 
-Run ReverseTest.java.
+Run ReverseTest.java. <br>
 
-Enter the desired data type (int, double, or string).
+Enter the desired data type (int, double, or string). <br>
 
-Follow the prompts to provide input.
+Follow the prompts to provide input. <br>
 
-Experience the recursive reversal in action!
+Experience the recursive reversal in action! <br>
 
