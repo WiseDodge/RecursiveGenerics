@@ -11,6 +11,10 @@ Reverse strings using generic recursion.
 # How to Use:
 
 Run ReverseTest.java.
+
 Enter the desired data type (int, double, or string).
+
 Follow the prompts to provide input.
+
 Experience the recursive reversal in action!
+
