@@ -4,11 +4,7 @@ This Java project demonstrates the use of generic recursion for reversing intege
 
 # Features:
 
-Reverse integers using generic recursion. <br>
-
-Reverse doubles using generic recursion. <br>
-
-Reverse strings using generic recursion. <br>
+Reverse integers, doubles and stings using generic recursion. <br>
 
 # How to Use:
 
